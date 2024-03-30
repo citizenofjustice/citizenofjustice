@@ -1,7 +1,10 @@
-- 👋 Hi, I’m @citizenofjustice
-- 👀 I’m interested in becoming an professional web-developer and gettiging to the expert level with time
-- 🌱 I have experience of working with HTML/CSS, JavaScript, React, Redux, GIT, Firebase, SASS. My next goals are: to dive into Node.js, Next.js, Vue, etc.
-- 💞️ I’m looking to collaborate on project that will allow me to learn new skills and refine those i already have.
-- 📫 How to reach me: link to my resume site - http://andreykrasnov.ru, there you can find my contact information.
+#### Hi 👋, I'm Krasnov Andrey
 
-One step at a time...
+I am a Frontend Developer currently transitioning to a Full Stack.
+
+## Skills:
+![Typescript]({https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white}) ![Javascript]({https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E}) ![React]({https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB}) ![Tailwind CSS]({https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white}) ![Node.js]({https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white}) ![MongoDB]({https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white}) ![MongoDB]({https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white})
+For additional info [![Static Badge](https://img.shields.io/badge/open_CV-yellow?style=for-the-badge)](https://cv-two-red.vercel.app).
+
+📫 How to reach me:
+[![Static Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](a.krasnov.dev@gmail.com) [![Static Badge]([https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white))](https://www.linkedin.com/in/adnrey-krasnov-5a1b68249/)
