@@ -9,5 +9,5 @@ I am a Frontend Developer currently transitioning to a Full Stack.
 [![Static Badge](https://img.shields.io/badge/open_CV-yellow?style=for-the-badge)](https://cv-two-red.vercel.app)
 
 ## How to reach me:
-[![Static Badge](https://img.shields.io/badge/email-a.krasnov.dev%40gmail.com-%23d14836?style=for-the-badge&logo=gmail)](mailto:a.krasnov.dev@gmail.com) [![Static Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adnrey-krasnov-5a1b68249/)
+[![Static Badge](https://img.shields.io/badge/email-a.krasnov.dev%40gmail.com-%23d14836?style=for-the-badge&logo=gmail)](mailto:a.krasnov.dev@gmail.com) [![Static Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrey-krasnov-5a1b68249/)
 
